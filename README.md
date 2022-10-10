@@ -1,11 +1,11 @@
-#### UNTUK BYPASS HOTSPOT KAT LAPTOP UNTUK GUNA DATA SELAIN DARI HOTSPOT DI HANDPHONE 
+#### TO BYPASS HOTSPOTS KAT LAPTOP TO USE DATA OTHER THAN HOTSPOTS ON MOBILE PHONES
 
-1. buka hotspot di phone
-2. di laptop/pc, connect kepada hotspot
-3. di laptop, buka cmd, run as administrator 
-4. type "netsh int ipv4 set glob defaultcurhoplimit=65" di cmd tu
-5. tekan enter dan akan keluar ok
-6. dah bypass
+1. open hotspot on phone
+2. on laptop/pc, connect to hotspot
+3. on the laptop, open cmd, run as administrator
+4. type "netsh int ipv4 set glob defaultcurhoplimit=65" in cmd tu
+5. press enter and it will exit ok
+6. doen bypass
 
 
 -------------------------------------------------------------------------
